@@ -8,7 +8,7 @@ module.exports = {
     description: {
       type: "string",
     },
-      price: {
+    price: {
       type: "number",
     },
     priceUnit: {
